@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlanisSoftwareTestTask", "AlanisSoftwareTestTask\AlanisSoftwareTestTask.csproj", "{7ABB2810-1CF5-43CA-B2BC-C32EA233926D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlanisSowtwareTestTask.Tests", "AlanisSowtwareTestTask.Tests\AlanisSowtwareTestTask.Tests.csproj", "{FF615DF1-B286-42C0-8EAA-A8CE8D5521FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ABB2810-1CF5-43CA-B2BC-C32EA233926D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABB2810-1CF5-43CA-B2BC-C32EA233926D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABB2810-1CF5-43CA-B2BC-C32EA233926D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABB2810-1CF5-43CA-B2BC-C32EA233926D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF615DF1-B286-42C0-8EAA-A8CE8D5521FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF615DF1-B286-42C0-8EAA-A8CE8D5521FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF615DF1-B286-42C0-8EAA-A8CE8D5521FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF615DF1-B286-42C0-8EAA-A8CE8D5521FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {317F3B72-311C-4ED2-BD8F-C2B0430E2F05}
+	EndGlobalSection
+EndGlobal
